@@ -1,6 +1,8 @@
 # kuaizi-broswer
 前端组件化的解决方案
 
+> deprecated again
+
 ## 原则
 + 单纯、简单
 + 极少量的 api
